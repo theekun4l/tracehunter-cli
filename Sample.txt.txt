@@ -1,0 +1,40 @@
+Welcome to TraceHunter test file.
+
+User contact details collected from different logs:
+
+Emails:
+rahul.sharma23@gmail.com
+contact.support@techworld.in
+admin_dev99@company.org
+fake.user_test@demo.net
+
+Phone Numbers:
++91 9876543210
++91 9123456789
++91 9988776655
+
+Websites / URLs:
+https://www.google.com
+http://example.org/login
+www.github.com/user-profile
+https://openai.com/research
+
+IP Addresses:
+192.168.1.1
+10.0.0.45
+172.16.254.3
+8.8.8.8
+
+Random text lines for noise:
+The quick brown fox jumps over the lazy dog.
+System access granted at 14:32 PM.
+User attempted login multiple times.
+Backup server located at internal network.
+
+More mixed content:
+Visit https://docs.python.org for documentation.
+Send queries to helpdesk@supportmail.com
+Temporary IP detected: 203.122.45.67
+Emergency contact: +91 9012345678
+
+End of sample log file.

@@ -32,4 +32,4 @@ python main.py
 
 📄 Sample File
 
-You can use the provided "sample.txt" file to test the analyzer.
+You can use the provided "Sample.txt" file to test the analyzer.

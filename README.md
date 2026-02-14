@@ -9,11 +9,11 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/trace-hunter.git
+git clone https://github.com/theekun4l/tracehunter-cli.git
 
 2. Go into the project folder
 
-cd trace-hunter
+cd tracehunter-cli
 
 3. Run the program
 
@@ -26,10 +26,10 @@ python main.py
 - Search extracted data
 - Export results to JSON
 
-5. Provide a ".txt" file containing data (emails, URLs, phone numbers, IPs) when asked.
+5. Provide a ".txt" file containing emails, URLs, phone numbers, or IP addresses when prompted.
 
 ---
 
 📄 Sample File
 
-You can use the provided "Sample.txt" file to test the analyzer.
+Use the included sample text file to test the analyzer features.
